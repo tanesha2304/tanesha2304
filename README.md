@@ -5,25 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanesha2304" alt="tanesha2304" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/taneshatyagi02" target="blank"><img src="https://img.shields.io/twitter/follow/shantinaimilti?logo=twitter&style=for-the-badge" alt="shantinaimilti" /></a> </p>
+<p align="left"> <a href="https://twitter.com/taneshatyagi02" target="blank"><img src="https://img.shields.io/twitter/follow/taneshatyagi02?logo=twitter&style=for-the-badge" alt="taneshatyagi02" /></a> </p>
 
-- 🔭 I’m currently working on **Geo-location Store**
+- 🔭 I’m currently working on [Geo-location Store](https://github.com/tanesha2304/Geo-location-store.git)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Java-Regex**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mradulsingh0223](https://github.com/mradulsingh0223)
+- 👨‍💻 All of my projects are available at [https://github.com/tanesha2304](https://github.com/tanesha2304)
 
-- 💬 Ask me about **M E R N, Django, Python**
+- 💬 Ask me about **M E R N stack**
 
-- 📫 How to reach me **mradulsingh524.mss@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/15MHWkUspSSiYmWjigO25e42qG5OJUqx3/view?usp=sharing](https://drive.google.com/file/d/15MHWkUspSSiYmWjigO25e42qG5OJUqx3/view?usp=sharing)
+- 📫 How to reach me **taneshatyagi@gmail.com**
 
 - ⚡ Fun fact **I think I won't fail :/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shantinaimilti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantinaimilti" height="30" width="40" /></a>
+<a href="https://twitter.com/taneshatyagi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taneshatyagi02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
